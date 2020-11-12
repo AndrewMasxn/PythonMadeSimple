@@ -25,7 +25,7 @@ footer {
   position: relative;
   bottom: 0;
   margin: 0;
-  height: 35px;
+  height: 55px;
   width: 98.4%;
   background-color: #dca900;
   color: white;
@@ -117,4 +117,8 @@ nav{
 #maintitle {
   font-size: 45px;
   color: whitesmoke;
+}
+
+#copyright{
+  font-size: 12px;
 }
