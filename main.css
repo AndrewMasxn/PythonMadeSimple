@@ -18,6 +18,7 @@ header h1 {
   margin: 0;
   display: inline;
   text-align: center;
+  font-size: 100px;
 }
 
 footer {
@@ -98,4 +99,21 @@ footer {
   align-items: center;
   margin: 20px;
   margin-right: 20px;
+}
+
+.titlePos {
+  margin-bottom: 10px;
+}
+
+.entry {
+  text-align: center;
+}
+
+nav{
+  text-align: center;
+}
+
+#maintitle {
+  font-size: 45px;
+  color: whitesmoke;
 }
