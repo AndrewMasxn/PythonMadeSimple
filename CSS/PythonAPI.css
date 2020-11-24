@@ -1,124 +1,128 @@
 .body {
-    background-color: grey;
-    height: 100vh;
-    color: white;
-  }
-  
-  body {
-    margin: 0;
-  }
-  
-  header {
-    background-color: #dca900;
-    color: white;
-    padding: 15px 15px 7.5px 15px;
-  }
-  
-  header h1 {
-    margin: 0;
-    display: inline;
-    text-align: center;
-    font-size: 100px;
-  }
-  
-  footer {
-    position: relative;
-    bottom: 0;
-    margin: 0;
-    height: 55px;
-    width: 98.4%;
-    background-color: #dca900;
-    color: white;
-    padding: 15px 15px 7.5px 15px;
-  }
-  
-  footer h1 {
-    margin: 0;
-    display: inline;
-    text-align: center;
-  }
-  
-  nav ul {
-    margin: 0;
-    padding: 0 0 0 15px;
-    display: inline;
-  }
-  
-  nav ul li {
-    background: #2b5b84;
-    color: white;
-    display: inline-block;
-    list-style-type: none;
-    padding: 5px 15px;
-    border: 3px solid black;
-    border-radius: 10px;
-  }
-  
-  nav ul li a {
-    color: white;
-  }
-  
-  .row {
-    clear: both;
-  }
-  
-  .col {
-    background: #2d3e4d;
-    border-radius: 5px;
-    color: white;
-    padding: 10px .5%;
-    float: left;
-    margin: .5%;
-    width: 31%;
-  }
-  
-  footer {
-    clear: both;
-  }
-  
-  .image1 {
-    margin-left: .5%;
-    padding-right: 10px;
-  }
-  
-  .vertical-align1 {
-    display: flex;
-    align-items: center;
-    margin: 20px;
-    margin-right: 20px;
-  }
-  
-  .vertical-align2 {
-    display: flex;
-    align-items: center;
-    margin: 20px;
-    margin-right: 20px;
-  }
-  
-  .vertical-align3 {
-    display: flex;
-    align-items: center;
-    margin: 20px;
-    margin-right: 20px;
-  }
-  
-  .titlePos {
-    margin-bottom: 10px;
-  }
-  
-  .entry {
-    text-align: center;
-  }
-  
-  nav{
-    text-align: center;
-  }
-  
-  #maintitle {
-    font-size: 45px;
-    color: whitesmoke;
-  }
-  
-  #copyright{
-    font-size: 12px;
-  }
+  background-color: grey;
+  height: 100vh;
+  color: white;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #dca900;
+  color: white;
+  padding: 15px 15px 7.5px 15px;
+}
+
+header h1 {
+  margin: 0;
+  display: inline;
+  text-align: center;
+  font-size: 100px;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  margin: 0;
+  height: 55px;
+  width: 98.4%;
+  background-color: #dca900;
+  color: white;
+  padding: 15px 15px 7.5px 15px;
+}
+
+footer h1 {
+  margin: 0;
+  display: inline;
+  text-align: center;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0 0 0 15px;
+  display: inline;
+}
+
+nav ul li {
+  background: #2b5b84;
+  color: white;
+  display: inline-block;
+  list-style-type: none;
+  padding: 5px 15px;
+  border: 3px solid black;
+  border-radius: 10px;
+}
+
+nav ul li a {
+  color: white;
+}
+
+.row {
+  clear: both;
+}
+
+.col {
+  background: #2d3e4d;
+  border-radius: 5px;
+  color: white;
+  padding: 10px .5%;
+  float: left;
+  margin: .5%;
+  width: 48%;
+}
+
+footer {
+  clear: both;
+}
+
+.image1 {
+  margin-left: .5%;
+  padding-right: 10px;
+}
+
+.vertical-align1 {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+  margin-right: 20px;
+}
+
+.vertical-align2 {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+  margin-right: 20px;
+}
+
+.vertical-align3 {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+  margin-right: 20px;
+}
+
+.titlePos {
+  margin-bottom: 10px;
+}
+
+.entry {
+  text-align: center;
+}
+
+nav{
+  text-align: center;
+}
+
+#maintitle {
+  font-size: 45px;
+  color: whitesmoke;
+}
+
+#copyright{
+  font-size: 12px;
+}
+
+.pycharmvscIMG {
+  margin-left: 325px;
+}
